@@ -10,5 +10,5 @@ Estou iniciando minha jornada no desenvolvimento **Front-End**, focada em criar 
 - HTML5 | CSS3 | Git & GitHub
 
 ### 🔗 Conecte-se comigo
- LinkedIn: https://www.linkedin.com/in/marli-ramoni-5034a223a/
+- [LinkedIn](https://www.linkedin.com/in/marli-ramoni-5034a223a/)
 - [Meu GitHub](https://github.com/ramonimarli-dev)
